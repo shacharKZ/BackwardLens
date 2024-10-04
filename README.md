@@ -32,9 +32,16 @@ This script demonstrates how to obtain the backward lens projection from GPT-2 m
 
 Additionally, the final blocks of the script show how to exclude tokens' rankings from VJPs and how to observe the differences in VJPs' norms between layers.
 
+
+## Forward Pass Shift
+
+Use the submodule memit_for_BackwardLens or directly use the repo [here](https://github.com/shacharKZ/memit_for_BackwardLens).
+
+
+
 ## Citing
 
-```
+```bibtex
 @article{katz2024backward,
   title={Backward lens: Projecting language model gradients into the vocabulary space},
   author={Katz, Shahar and Belinkov, Yonatan and Geva, Mor and Wolf, Lior},
