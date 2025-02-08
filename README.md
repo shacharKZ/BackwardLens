@@ -2,9 +2,13 @@
 
 ## Description
 This is a demo provided for the paper: Backward Lens: Projecting Language Model Gradients
-into the Vocabulary Space
+into the Vocabulary Space (EMNLP 2024 main conference, [Best Paper Award](https://2024.emnlp.org/program/best_papers/)) 
 
 Try our demo: [![Colab BackwardLens Demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o_dKmxkCMNzyvbztxXKEkjQGr_s0GoE6?usp=sharing)
+
+![Screenshot 2025-02-08 at 10 01 42](https://github.com/user-attachments/assets/b065462b-9852-461b-972e-3483641104e0)
+
+
 
 ## Table of Contents
 1. [Installation](#installation)
